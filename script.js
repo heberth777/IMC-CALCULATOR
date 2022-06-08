@@ -30,7 +30,7 @@ function imc(){
     
 
   }else  {
-    resultado.textContent = 'Preencha todos os campos'
+    resultado.textContent = 'Altura e Peso devem ser preenchidos'
   }
 }
 

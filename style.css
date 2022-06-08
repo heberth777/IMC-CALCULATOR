@@ -42,9 +42,9 @@ main{
   align-items: center;
 }
 .input input {
-  width: 180px;
+  width: 190px;
   height: 50px;
-  border-radius: 5px;
+  border-radius: 15px;
   border:none;
   outline: 0;
   font: bold 1.5rem serif;
@@ -52,7 +52,7 @@ main{
 }
 
 .input label {
-  font: bold 1.5rem serif;
+  font: bold 1.4rem serif;
 }
 
 button{
